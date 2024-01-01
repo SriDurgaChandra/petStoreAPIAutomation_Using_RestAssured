@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-01T13:45:41 IST" name="Suite" finished-at="2024-01-01T13:45:54 IST" duration-ms="13034">
+    <groups>
+    </groups>
+    <test started-at="2024-01-01T13:45:41 IST" name="Test" finished-at="2024-01-01T13:45:54 IST" duration-ms="13034">
+      <class name="api.tests.UserTest">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.tests.UserTest@dc7df28]" started-at="2024-01-01T13:45:41 IST" name="setupData" finished-at="2024-01-01T13:45:43 IST" duration-ms="1667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="addUserTest()[pri:1, instance:api.tests.UserTest@dc7df28]" started-at="2024-01-01T13:45:43 IST" name="addUserTest" finished-at="2024-01-01T13:45:49 IST" duration-ms="5599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserTest -->
+        <test-method signature="getUserTest()[pri:2, instance:api.tests.UserTest@dc7df28]" started-at="2024-01-01T13:45:49 IST" name="getUserTest" finished-at="2024-01-01T13:45:50 IST" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserTest -->
+        <test-method signature="updateUserTest()[pri:3, instance:api.tests.UserTest@dc7df28]" started-at="2024-01-01T13:45:50 IST" name="updateUserTest" finished-at="2024-01-01T13:45:52 IST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserTest -->
+        <test-method signature="deleteUserTest()[pri:4, instance:api.tests.UserTest@dc7df28]" started-at="2024-01-01T13:45:52 IST" name="deleteUserTest" finished-at="2024-01-01T13:45:54 IST" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+      </class> <!-- api.tests.UserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
